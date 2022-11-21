@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/twitter/follow/majid_127x?logo=twitter&style=for-the-badge" alt="0x_majid127x" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, MongoDb, ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **CSS, HTML, JavaScript, Bootstrap,**
+- 💬 Ask me about **CSS, HTML, JavaScript, Bootstrap, NodeJs, MongoDB**
 
 - 📫 How to reach me **majid616365@gmail.com**
 
