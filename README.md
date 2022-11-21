@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Flutter, Web3**
 
 - 💬 Ask me about **CSS, HTML, JavaScript, Bootstrap, NodeJs, MongoDB**
 
