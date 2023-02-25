@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">FullStack Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/z4Na66cpXMQAAAAi/code-coding.gif">
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/twitter/follow/0x_majid127x?logo=twitter&style=for-the-badge" alt="0x_majid127x" /></a> </p>
