@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/badge/follow-%400x_majid127x-1DA1F2?logo=twitter&style=flat-square" alt="0x_majid127x" /></a> </p>
 
-- I’m currently learning **ReactJs, Flutter**
+- I’m currently learning **NextJS, Flutter**
 
 - I’m looking to collaborate on **OpenSource Projects**
 
