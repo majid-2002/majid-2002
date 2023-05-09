@@ -35,5 +35,3 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majid-2002&show_icons=true&theme=radical&hide_border=true)
-
