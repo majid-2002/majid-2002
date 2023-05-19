@@ -5,7 +5,7 @@
 
 - Working on **MERN** stack projects.
 
-- I’m currently learning **Web3, Go, Flutter**
+- I’m currently learning **Web3, Go**
 
 - I’m looking to collaborate on **OpenSource Projects**
 
