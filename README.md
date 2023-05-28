@@ -22,16 +22,13 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-NextJS-fff?style=flat-square&logo=Next.js&logoColor=black" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-00065c?style=flat-square&logo=tailwindcss&logoColor=0ea5e9" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00b6e4?style=flat-square&logo=Go&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
 </p>
 
