@@ -11,6 +11,17 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
+<h3 align="left">Works:</h3>
+
+- [Postify - A web application designed for testing RESTful HTTP requests](https://postify-web.vercel.app/)
+- [ProjecEd - Real-time Educational Presentation from Speech using AI and NLP](https://github.com/aqeelshamz/project-ed)
+- [Slack Bot Using GoLang](https://github.com/majid-2002/slack-age-bot)
+- [Prompt to Image Generation](https://github.com/majid-2002/OpenAi-api-integration)
+- [Blog Site](https://github.com/majid-2002/Blog_site)
+- [GoHTTPSniffer - A HTTP Logger for server side debugging in GoLang](https://github.com/majid-2002/go-http-sniffer)
+- [StringHashing - A npm package for Cryptographic Hashing](https://www.npmjs.com/package/crypto-hashing-js)
+- Zapspace - All-in-one suite of digital tools for small local business owners within clicks
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x_majid127x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_majid127x" height="30" width="40" /></a>
