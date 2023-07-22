@@ -5,7 +5,7 @@
 
 - Working on **MERN** stack projects.
 
-- I’m currently learning **Web3, Go**
+- I’m currently learning **Web3**
 
 - Grinding **DSA** and **Leetcode** problems.
 
