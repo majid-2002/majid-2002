@@ -9,6 +9,8 @@
 
 - Grinding **DSA** and **Leetcode** problems.
 
+- Backend Developer experienced with **Node.js** and **GoLang**
+
 - I’m looking to collaborate on **OpenSource Projects**
 
 <h3 align="left">Works:</h3>
