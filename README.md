@@ -23,6 +23,7 @@
 - [GoHTTPSniffer - A HTTP Logger for server side debugging in GoLang](https://github.com/majid-2002/go-http-sniffer)
 - [StringHashing - A npm package for Cryptographic Hashing](https://www.npmjs.com/package/crypto-hashing-js)
 - Zapspace - All in one suite of digital tools for small local business owners within clicks
+- ChessArena - Building a ChessApp - [Project Blog](https://majid-2002.github.io/posts/ChessArena)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
