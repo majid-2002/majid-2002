@@ -47,5 +47,6 @@
   <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-white?style=flat-square&logo=digitalocean&logoColor=black" />
 </p>
 
