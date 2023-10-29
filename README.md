@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/badge/follow-%400x_majid127x-1DA1F2?logo=twitter&style=flat-square" alt="0x_majid127x" /></a> </p>
 
-- Working on **MERN** stack projects.
+- Skilled in **MERN** stack and React Native.
 
-- I’m currently learning **Web3**
+- Exploring **Web3** and blockchain tech.
 
 - Grinding **DSA** and **Leetcode** problems.
 
