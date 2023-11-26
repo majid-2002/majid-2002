@@ -17,7 +17,6 @@
 
 - [Postify - A web application designed for testing RESTful HTTP requests](https://postify-web.vercel.app/)
 - [ProjecEd - Real-time Educational Presentation from Speech using AI and NLP](https://github.com/aqeelshamz/project-ed)
-- Zapspace - All in one suite of digital tools for small local business owners within clicks
 - ChessArena - Building a ChessApp - [Project Blog](https://majid-2002.github.io/posts/ChessArena)
 - [Valuate.Ai](https://valuate-ai.vercel.app/) - A exam paper Valuation app
 - [Formfiy.Ai](https://formify-ai.vercel.app/) - An intelligent form creator for Web3
