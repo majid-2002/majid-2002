@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/badge/follow-%400x_majid127x-1DA1F2?logo=twitter&style=flat-square" alt="0x_majid127x" /></a> </p>
 
-- Skilled in **MERN** stack and **React Native**.
+- Skilled in Full-stack web development.
 
 - Exploring **Web3** and blockchain tech.
 
 - Grinding **DSA** and **Leetcode** problems.
 
-- Backend Developer experienced with **Node.js** and **GoLang**
+- Backend is my favorite
 
 - I’m looking to collaborate on **OpenSource Projects**
 
@@ -26,11 +26,13 @@
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=4fc08d&labelColor=35495e" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-NextJS-fff?style=flat-square&logo=Next.js&logoColor=black" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-00065c?style=flat-square&logo=tailwindcss&logoColor=0ea5e9" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-00065c?style=flat-square&logo=tailwindcss&logoColor=0ea5e9" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=FFD43B&labelColor=3670A0" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00b6e4?style=flat-square&logo=Go&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
