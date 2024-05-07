@@ -9,7 +9,7 @@
 
 - Grinding **DSA** and **Leetcode** problems.
 
-- Backend is my favorite
+- Backend in Nest.Js, Express.Js, and GoLang
 
 - I’m looking to collaborate on **OpenSource Projects**
 
