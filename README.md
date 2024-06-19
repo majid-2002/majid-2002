@@ -5,7 +5,7 @@
 
 - Skilled in Full-stack web development.
 
-- Exploring **Web3** and blockchain tech.
+- Exploring **Data Engineering** and **DevOps**.
 
 - Grinding **DSA** and **Leetcode** problems.
 
