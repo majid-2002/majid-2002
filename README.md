@@ -33,6 +33,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=FFD43B&labelColor=3670A0" />
+  <img alt=".NET" src="https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net&logoColor=FFFFFF&labelColor=512BD4" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00b6e4?style=flat-square&logo=Go&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
