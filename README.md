@@ -7,12 +7,6 @@
 
 - Exploring **Data Engineering** and **DevOps**.
 
-- Grinding **DSA** and **Leetcode** problems.
-
-- Backend in Nest.Js, Express.Js, and GoLang
-
-- I’m looking to collaborate on **OpenSource Projects**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
