@@ -21,6 +21,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=4fc08d&labelColor=35495e" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-NextJS-fff?style=flat-square&logo=Next.js&logoColor=black" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-00065c?style=flat-square&logo=tailwindcss&logoColor=0ea5e9" />
