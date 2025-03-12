@@ -35,5 +35,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-white?style=flat-square&logo=digitalocean" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
