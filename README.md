@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">FullStack Dev</h3>
+<h3 align="center">SRE / Full Stack Dev</h3>
 
 <p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/badge/follow-%400x_majid127x-1DA1F2?logo=twitter&style=flat-square" alt="0x_majid127x" /></a> </p>
-
-- Skilled in Full-stack development.
-
-- Exploring **Data Engineering** and **DevOps**.
 
 
 <h3 align="left">Connect with me:</h3>
