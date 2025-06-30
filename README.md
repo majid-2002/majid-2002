@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">SRE / Full Stack Dev</h3>
+<h3 align="center">SRE / Dev</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
