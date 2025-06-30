@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 <h3 align="center">SRE / Full Stack Dev</h3>
 
-<p align="left"> <a href="https://twitter.com/0x_majid127x" target="blank"><img src="https://img.shields.io/badge/follow-%400x_majid127x-1DA1F2?logo=twitter&style=flat-square" alt="0x_majid127x" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x_majid127x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_majid127x" height="30" width="40" /></a>
