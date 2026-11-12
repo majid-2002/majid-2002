@@ -75,16 +75,6 @@ Exploring and building intelligent systems that combine LLMs, automation, and in
 - AI-assisted incident investigation and root cause analysis
 - Intelligent monitoring and automated remediation
 
-**Technologies Exploring**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-6246EA?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
----
-
 ## 🚀 Emerging Technologies & Currently Exploring
 
 ### Platform Engineering & GitOps
@@ -141,9 +131,7 @@ For consulting, freelance projects, or engineering collaborations, feel free to 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0x_majid127x)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/majid.127x)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/majid_127x)
-
-<!-- Add your professional email here -->
-<!-- Email: your-email@example.com -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majid616365@gmail.com)
 
 ---
 
